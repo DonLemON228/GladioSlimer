@@ -1,0 +1,756 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8741572700221658926
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Projectile/ProjectileSmoosh
+  m_EditorClassIdentifier: 
+  Path: event:/Projectile/ProjectileSmoosh
+  Guid:
+    Data1: -1447389909
+    Data2: 1256005680
+    Data3: -751860566
+    Data4: 372273013
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 368
+--- !u!114 &-8711563995006471677
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VoiceLines/RedBlobSlimed
+  m_EditorClassIdentifier: 
+  Path: event:/VoiceLines/RedBlobSlimed
+  Guid:
+    Data1: 1106389905
+    Data2: 1083732348
+    Data3: 23727527
+    Data4: 1280312899
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2205
+--- !u!114 &-8397708892567804979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/UI/ButtonHighlight
+  m_EditorClassIdentifier: 
+  Path: event:/UI/ButtonHighlight
+  Guid:
+    Data1: 1519678488
+    Data2: 1145422275
+    Data3: -818524527
+    Data4: -967629774
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 140
+--- !u!114 &-7931200450847590168
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Projectile/ProjectileImpact
+  m_EditorClassIdentifier: 
+  Path: event:/Projectile/ProjectileImpact
+  Guid:
+    Data1: 1885513461
+    Data2: 1221920079
+    Data3: 1888087949
+    Data4: 1249278441
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 917
+--- !u!114 &-7496396005790407159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Slimes/DashSound
+  m_EditorClassIdentifier: 
+  Path: event:/Slimes/DashSound
+  Guid:
+    Data1: -2073652460
+    Data2: 1251470429
+    Data3: -1795795043
+    Data4: -708324755
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 313
+--- !u!114 &-3760463002520346001
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VoiceLines/RedBlobWins
+  m_EditorClassIdentifier: 
+  Path: event:/VoiceLines/RedBlobWins
+  Guid:
+    Data1: 31482114
+    Data2: 1212140639
+    Data3: -111679075
+    Data4: -560286339
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3274
+--- !u!114 &-3563133338742623991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Slimes/SlimeWalk
+  m_EditorClassIdentifier: 
+  Path: event:/Slimes/SlimeWalk
+  Guid:
+    Data1: 195902940
+    Data2: 1253639456
+    Data3: -1378508152
+    Data4: 1127492542
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 590
+--- !u!114 &-2360211340007113723
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/UI/WinTitleAppear
+  m_EditorClassIdentifier: 
+  Path: event:/UI/WinTitleAppear
+  Guid:
+    Data1: -2110138011
+    Data2: 1145400326
+    Data3: -867253576
+    Data4: -1558937640
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1224
+--- !u!114 &-1063006132607349250
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VoiceLines/StartRound
+  m_EditorClassIdentifier: 
+  Path: event:/VoiceLines/StartRound
+  Guid:
+    Data1: -1870949888
+    Data2: 1269419147
+    Data3: -2037483640
+    Data4: 1081605437
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3200
+--- !u!114 &-453819214476049092
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/UI/ActivateCard
+  m_EditorClassIdentifier: 
+  Path: event:/UI/ActivateCard
+  Guid:
+    Data1: 1090808801
+    Data2: 1194906511
+    Data3: 2051472256
+    Data4: -1561259070
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2600
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 1123307815847044580}
+  - {fileID: 4331161499966163481}
+  EditorEvents:
+  - {fileID: 6506921200076648139}
+  - {fileID: 7240041761348460369}
+  - {fileID: 1457095378163214786}
+  - {fileID: -3563133338742623991}
+  - {fileID: -7931200450847590168}
+  - {fileID: -2360211340007113723}
+  - {fileID: 5000958059786911167}
+  - {fileID: 556655101899660950}
+  - {fileID: 8996351849010743617}
+  - {fileID: -8741572700221658926}
+  - {fileID: 1756151123800329455}
+  - {fileID: -453819214476049092}
+  - {fileID: -1063006132607349250}
+  - {fileID: -3760463002520346001}
+  - {fileID: 2279983106899866905}
+  - {fileID: -8711563995006471677}
+  - {fileID: 7499065776532374072}
+  - {fileID: -7496396005790407159}
+  - {fileID: 5280888693333768879}
+  - {fileID: 28705854499552630}
+  - {fileID: -8397708892567804979}
+  - {fileID: 4734370842131325985}
+  - {fileID: 1073932908152305417}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: 4331161499966163481}
+  StringsBanks:
+  - {fileID: 1123307815847044580}
+  cacheVersion: 131848
+  cacheTime: 638897827115569315
+  SerializableEventsDict:
+  - key: event:/WheelOfFortune/WheelOfFortuneRotatimg
+    index: 0
+  - key: event:/Slimes/SlimeShoot
+    index: 1
+  - key: event:/Slimes/SlimeDeath
+    index: 2
+  - key: event:/Slimes/SlimeWalk
+    index: 3
+  - key: event:/Projectile/ProjectileImpact
+    index: 4
+  - key: event:/UI/WinTitleAppear
+    index: 5
+  - key: event:/Projectile/LandMineSignal
+    index: 6
+  - key: event:/Projectile/Explosion
+    index: 7
+  - key: event:/Slimes/ForceFieldActivate
+    index: 8
+  - key: event:/Projectile/ProjectileSmoosh
+    index: 9
+  - key: event:/Projectile/ExplosionDeltarune
+    index: 10
+  - key: event:/UI/ActivateCard
+    index: 11
+  - key: event:/VoiceLines/StartRound
+    index: 12
+  - key: event:/VoiceLines/RedBlobWins
+    index: 13
+  - key: event:/VoiceLines/BlueBlobSlimed
+    index: 14
+  - key: event:/VoiceLines/RedBlobSlimed
+    index: 15
+  - key: event:/VoiceLines/BlueBlobWins
+    index: 16
+  - key: event:/Slimes/DashSound
+    index: 17
+  - key: event:/GameOst
+    index: 18
+  - key: event:/MenuOst
+    index: 19
+  - key: event:/UI/ButtonHighlight
+    index: 20
+  - key: event:/UI/ButtonPress
+    index: 21
+  - key: event:/Slimes/Yappie
+    index: 22
+--- !u!114 &28705854499552630
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/MenuOst
+  m_EditorClassIdentifier: 
+  Path: event:/MenuOst
+  Guid:
+    Data1: -1306268245
+    Data2: 1083009610
+    Data3: 255352485
+    Data4: -856200172
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 114600
+--- !u!114 &556655101899660950
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Projectile/Explosion
+  m_EditorClassIdentifier: 
+  Path: event:/Projectile/Explosion
+  Guid:
+    Data1: 1384600494
+    Data2: 1155676887
+    Data3: 1033567389
+    Data4: 827130384
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 365
+--- !u!114 &1073932908152305417
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Slimes/Yappie
+  m_EditorClassIdentifier: 
+  Path: event:/Slimes/Yappie
+  Guid:
+    Data1: 386291779
+    Data2: 1084410172
+    Data3: 2129779123
+    Data4: -1243326747
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2275
+--- !u!114 &1123307815847044580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.03.06/GladioSlimersSound/GladioSlimers/Build/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638897827115569315
+  FileSizes:
+  - Name: Desktop
+    Value: 1854
+  Exists: 1
+--- !u!114 &1457095378163214786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Slimes/SlimeDeath
+  m_EditorClassIdentifier: 
+  Path: event:/Slimes/SlimeDeath
+  Guid:
+    Data1: 650317099
+    Data2: 1184371472
+    Data3: 855793848
+    Data4: 2017954927
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2310
+--- !u!114 &1756151123800329455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Projectile/ExplosionDeltarune
+  m_EditorClassIdentifier: 
+  Path: event:/Projectile/ExplosionDeltarune
+  Guid:
+    Data1: -1000975738
+    Data2: 1232984833
+    Data3: 445070509
+    Data4: 2123113722
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2042
+--- !u!114 &2279983106899866905
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VoiceLines/BlueBlobSlimed
+  m_EditorClassIdentifier: 
+  Path: event:/VoiceLines/BlueBlobSlimed
+  Guid:
+    Data1: 1643541546
+    Data2: 1337311595
+    Data3: 1610316719
+    Data4: 845227769
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 2205
+--- !u!114 &4331161499966163481
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: ../FMOD Studio 2.03.06/GladioSlimersSound/GladioSlimers/Build/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638897827115329623
+  FileSizes:
+  - Name: Desktop
+    Value: 4176448
+  Exists: 1
+--- !u!114 &4734370842131325985
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/UI/ButtonPress
+  m_EditorClassIdentifier: 
+  Path: event:/UI/ButtonPress
+  Guid:
+    Data1: 1892520257
+    Data2: 1116366500
+    Data3: -1863162739
+    Data4: -697391156
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 249
+--- !u!114 &5000958059786911167
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Projectile/LandMineSignal
+  m_EditorClassIdentifier: 
+  Path: event:/Projectile/LandMineSignal
+  Guid:
+    Data1: 593949617
+    Data2: 1103220512
+    Data3: -663840888
+    Data4: -77169760
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 380
+--- !u!114 &5280888693333768879
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/GameOst
+  m_EditorClassIdentifier: 
+  Path: event:/GameOst
+  Guid:
+    Data1: 390722738
+    Data2: 1086889627
+    Data3: 1160158858
+    Data4: 974953363
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 143076
+--- !u!114 &6506921200076648139
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/WheelOfFortune/WheelOfFortuneRotatimg
+  m_EditorClassIdentifier: 
+  Path: event:/WheelOfFortune/WheelOfFortuneRotatimg
+  Guid:
+    Data1: -438533207
+    Data2: 1210505211
+    Data3: 1471337109
+    Data4: 1363787628
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5201
+--- !u!114 &7240041761348460369
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Slimes/SlimeShoot
+  m_EditorClassIdentifier: 
+  Path: event:/Slimes/SlimeShoot
+  Guid:
+    Data1: 2018539040
+    Data2: 1156378129
+    Data3: -1257825139
+    Data4: -1021689413
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 720
+--- !u!114 &7499065776532374072
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/VoiceLines/BlueBlobWins
+  m_EditorClassIdentifier: 
+  Path: event:/VoiceLines/BlueBlobWins
+  Guid:
+    Data1: 1234428098
+    Data2: 1094071486
+    Data3: 357056143
+    Data4: -475920731
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 3715
+--- !u!114 &8996351849010743617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Slimes/ForceFieldActivate
+  m_EditorClassIdentifier: 
+  Path: event:/Slimes/ForceFieldActivate
+  Guid:
+    Data1: 159543068
+    Data2: 1111323828
+    Data3: -1215565918
+    Data4: -726347303
+  Banks:
+  - {fileID: 4331161499966163481}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7758
